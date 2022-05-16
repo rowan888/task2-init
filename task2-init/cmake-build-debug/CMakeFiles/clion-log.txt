@@ -1,0 +1,4 @@
+/private/var/folders/54/0xcxlgbs4vb2rz8l16yflqh80000gn/T/AppTranslocation/A5F057DE-E3DD-40F8-8058-EAFD3ACEEDE0/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/private/var/folders/54/0xcxlgbs4vb2rz8l16yflqh80000gn/T/AppTranslocation/A5F057DE-E3DD-40F8-8058-EAFD3ACEEDE0/d/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/rowan/Downloads/CSC2035/Assignment2/task2-init -B /Users/rowan/Downloads/CSC2035/Assignment2/task2-init/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/rowan/Downloads/CSC2035/Assignment2/task2-init/cmake-build-debug
